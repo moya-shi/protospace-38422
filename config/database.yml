@@ -23,7 +23,7 @@ development:
   username: root
   password:
   host: localhost
-  database: protospace-38422_development
+  database: protospace_38422_development
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
@@ -34,7 +34,7 @@ test:
   username: root
   password:
   host: localhost
-  database: protospace-38422_test
+  database: protospace_38422_test
 
 # As with config/credentials.yml, you never want to store sensitive information,
 # like your database password, in your source code. If your source code is
